@@ -18,10 +18,10 @@ public class Config {
      * Main Configuration Of Your WebViewGold App
      */
     // Domain host and subdomain without any https:// or http:// prefixes (e.g., "www.example.org")
-    public static final String HOST = "www.example.org";
+    public static final String HOST = "www.corearsitek.id";
 
     // Your URL including https:// or http:// prefix and including www. or any required subdomain (e.g., "https://www.example.org")
-    public static String HOME_URL = "https://www.example.org";
+    public static String HOME_URL = "https://www.corearsitek.id";
 
     // Set to "false" to disable the progress spinner/loading spinner
     public static final boolean ACTIVATE_PROGRESS_BAR = true;

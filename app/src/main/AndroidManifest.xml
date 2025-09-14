@@ -113,7 +113,7 @@
                 <category android:name="android.intent.category.BROWSABLE" />
                 <!-- Accepts URIs that begin with "http://www.webviewgold.com/link=” -->
                 <data
-                    android:host="www.webviewgold.com"
+                    android:host="www.corearsitek.id"
                     android:pathPrefix="/link="
                     android:scheme="https" />
             </intent-filter>
